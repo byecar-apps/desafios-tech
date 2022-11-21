@@ -13,9 +13,10 @@ dados do cliente do nosso parceiro, **então na primeira tela** da nossa jornada
 * O backend vai receber o token do front e se comunicar com a API do parceiro para recuperar os registro do cliente;
 
 1. Considerando as informações acima, descreva como seria a comunicação entre frontend > backend > API > backend > frontend;
-2. Implemente uma classe que faz a recuperação do token chegando do front e consumindo uma API (fake) que precisa enviar esse token em um cabeçalho;
-  2.1. A classe deve utilizar a estrutura de um projeto Laravel (controllers, services, etc);
-  2.2. O Laravel deve devolver dados cadastrais (nome, email, celular) para o front em formato json.
+2. Implemente uma classe que faz a recuperação do token chegando do front e consumindo uma API (fake).
+   - A API só retorna dados dos clientes mediante o envio do token no cabeçalho;
+   - A classe deve utilizar a estrutura de um projeto Laravel (controllers, services, etc);
+   - O Laravel deve devolver dados cadastrais (nome, email, celular) para o front em formato json.
   
 ### Importante
 - Não se preocupe com telas ou qualquer outra estrutura que não envolva o processo acima;
