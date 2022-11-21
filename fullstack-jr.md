@@ -20,3 +20,4 @@ dados do cliente do nosso parceiro, **então na primeira tela** da nossa jornada
 ### Importante
 - Não se preocupe com telas ou qualquer outra estrutura que não envolva o processo acima;
 - Crie um repositório no github e envie o resultado para tiago[@]byecar.com.br em até 7 dias;
+- Se tiver dúvidas entre em contato comigo pelo Linkedin https://www.linkedin.com/in/tiago-sabadini/
