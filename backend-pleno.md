@@ -5,7 +5,7 @@ OBS: O front pode ser com blade, vue, react, etc. É indiferente. Também não a
 Esta aplicação deverá gerar uma imagem docker para deploy com Github Actions e um WebApp da Digital Ocean. O banco de dados poderá ficar na mesma imagem docker (mysql ou sqlite).
 
 #### Aplicação secundária
-Para alimentar a aplicação principal, crie um script em python que busque 10 modelos de veículos (carros) aleatórios no (site da FIPE)[https://veiculos.fipe.org.br/] e armazene diretamente no banco de dados.
+Para alimentar a aplicação principal, crie um script em python que busque 10 modelos de veículos (carros) aleatórios no [site da FIPE](https://veiculos.fipe.org.br/) e armazene diretamente no banco de dados.
 
 #### Envio do desafio
 Envie o link dos 2 repositórios criados, juntamente com as instruções para subir os ambientes para tiago@byecar.com.br
